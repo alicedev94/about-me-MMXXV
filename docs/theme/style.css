@@ -1,0 +1,9 @@
+/* Quitar borde del título */
+.VPNavBar .VPNavBarTitle .title {
+	border-bottom: none !important;
+}
+
+/* Versiones nuevas (1.x+) */
+.VPNavBar .VPNavBarTitle .text {
+	border-bottom: none !important;
+}
